@@ -1,10 +1,9 @@
 # Projeto que gera um token JWT para utilização de autenticação aplicacao.
 ## Como usar:
-<br>
 Para utilizar essa projeto, basta ter o .NET 7 e Visual Code/Visual Studio 2022.
 
 ## O Que é JWT?:
-Jwt é conhecido como json web token e sua popularidade encontra-se em aplicações web como meio de autenticação entre serviços.
+Jwt é conhecido como json web token e sua popularidade encontra-se em aplicações web como meio de envio de informações e autenticação entre serviços.
 
 ## Tour pelo projeto:
 A Principio, vamos fazer nossa aplicação entender que ela deve utilizar um middleware de autenticação,
